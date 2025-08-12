@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/adrianhajdin/project_threejs_ai/assets/151519281/a7ad05c5-28a5-423f-b6ac-c98f8a5c428a" alt="Project Banner">
+      <img src="[https://github.com/adrianhajdin/project_threejs_ai/assets/151519281/a7ad05c5-28a5-423f-b6ac-c98f8a5c428a](https://github.com/lokeshkolapati/Vastra/blob/main/vastra%20.png)" alt="Project Banner">
     </a>
   <br />
  
